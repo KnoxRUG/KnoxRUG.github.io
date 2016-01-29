@@ -1,5 +1,5 @@
-document.body.innerHTML = document.body.innerHTML.replace(/urlbutton/g, '<span class="label label-default" style="background-color:green">url</span>');
-document.body.innerHTML = document.body.innerHTML.replace(/slidesbutton/g, '<span class="label label-default" style="background-color:red">slides</span>');
+document.body.innerHTML = document.body.innerHTML.replace(/urlbutton/g, '<span class="label label-default" style="background-color:darkgreen">url</span>');
+document.body.innerHTML = document.body.innerHTML.replace(/slidesbutton/g, '<span class="label label-default" style="background-color:darkblue">slides</span>');
 
 
 var links = document.links;
